@@ -344,4 +344,4 @@ Manual verification steps are in `TESTING.md`.
 
 ---
 
-MIT licensed. Built for Yash Ail.
+Source-available under the [Yash AIL Source-Available License](LICENSE) — no deployment or selling. Built for Yash Ail.
