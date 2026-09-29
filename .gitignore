@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+*.manifest
+logs/*.log*
+.env
+config/config.local.json
+models/
+*.onnx
+*.tflite
+.DS_Store
