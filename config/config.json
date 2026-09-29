@@ -1,0 +1,59 @@
+{
+  "assistant_name": "Jarvis",
+  "wake_word": "hey jarvis",
+  "wake_word_engine": "auto",
+  "wake_word_threshold": 0.5,
+  "wake_hotkey": "ctrl+alt+j",
+  "language": "en-IN",
+
+  "stt_engine": "auto",
+  "whisper_model": "base.en",
+  "whisper_compute_type": "int8",
+  "whisper_beam_size": 1,
+  "vosk_model_path": "",
+
+  "tts_enabled": true,
+  "tts_voice": "",
+  "tts_rate": 175,
+  "tts_volume": 1.0,
+
+  "default_search_engine": "google",
+  "browser": "default",
+
+  "active_timeout": 8,
+  "follow_up_enabled": true,
+
+  "typing_interval": 0.01,
+  "typing_method": "auto",
+  "clipboard_threshold": 200,
+  "restore_clipboard": true,
+  "focus_restore_delay": 0.12,
+  "auto_punctuation": true,
+  "uppercase_alphanumeric_codes": true,
+  "normalize_spelled_codes": true,
+
+  "require_confirmation_for_dangerous_actions": true,
+  "allow_file_operations": true,
+  "sandbox_file_operations": true,
+
+  "start_with_windows": false,
+  "start_minimized": true,
+  "gui_never_steals_focus": true,
+  "play_sounds": true,
+
+  "mic_device": null,
+  "mic_sample_rate": 16000,
+  "silence_threshold": 0,
+  "silence_duration": 1.0,
+  "command_start_timeout": 5.0,
+  "command_max_seconds": 15.0,
+
+  "log_level": "INFO",
+  "log_typed_text": false,
+  "log_retention_days": 14,
+
+  "llm_enabled": false,
+  "llm_provider": "anthropic",
+  "llm_model": "claude-sonnet-4-6",
+  "llm_timeout": 12
+}

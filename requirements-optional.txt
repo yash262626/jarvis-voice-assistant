@@ -1,0 +1,11 @@
+# Optional extras. Core JARVIS works without any of these.
+
+# Alternative offline STT engine (set "stt_engine": "vosk" in config.json)
+vosk==0.3.45
+
+# Alternative automation backend (set "typing_method": "pyautogui")
+pyautogui==0.9.54
+
+# Dev / build tooling
+pytest==8.2.2
+pyinstaller==6.9.0

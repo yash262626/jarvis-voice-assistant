@@ -1,0 +1,22 @@
+{
+  "google": "https://www.google.com",
+  "youtube": "https://www.youtube.com",
+  "gmail": "https://mail.google.com",
+  "github": "https://github.com",
+  "chatgpt": "https://chat.openai.com",
+  "claude": "https://claude.ai",
+  "linkedin": "https://www.linkedin.com",
+  "whatsapp web": "https://web.whatsapp.com",
+  "google drive": "https://drive.google.com",
+  "google sheets": "https://sheets.google.com",
+  "google maps": "https://www.google.com/maps",
+  "outlook web": "https://outlook.office.com/mail",
+  "amazon": "https://www.amazon.in",
+  "indiamart": "https://www.indiamart.com",
+  "kei": "https://www.kei-ind.com",
+  "gst portal": "https://www.gst.gov.in",
+  "eway bill": "https://ewaybillgst.gov.in",
+  "irctc": "https://www.irctc.co.in",
+  "stack overflow": "https://stackoverflow.com",
+  "netflix": "https://www.netflix.com"
+}
